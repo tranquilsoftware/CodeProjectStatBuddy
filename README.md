@@ -62,4 +62,8 @@ Average characters per line: 28.5
 
 ## License
 
-Tranquil Software; forever free. Feel free to use, modify, and distribute.
+MIT License - feel free to use, modify, and distribute.
+
+---
+
+**Made with ❤️ by [Tranquil Software](https://tranquilsoftware.com.au)**
